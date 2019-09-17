@@ -12,3 +12,4 @@ end
 
 Shoe.condition = "new"
 end
+end
