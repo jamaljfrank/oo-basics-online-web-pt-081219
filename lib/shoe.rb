@@ -10,6 +10,6 @@ class Shoe
   
 end
 
-Shoe.condition = "new"
+shoe.condition = "new"
 end
 end
